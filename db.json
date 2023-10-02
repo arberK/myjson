@@ -2,32 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "body": "I just got a new gaming mouse and it's amazing!",
-      "author": {
-        "name": "John Doe",
-        "id": 1,
-        "avatar": "https://i.pravatar.cc/45?img=1"
-      }
-    },
+      "title": "hello"
+    }
   ],
-  "profiles": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@gmail.com",
-      "avatar": "https://i.pravatar.cc/100?img=1"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "janesmith@gmail.com",
-      "avatar": "https://i.pravatar.cc/100?img=2"
-    },
-    {
-      "id": 3,
-      "name": "Bob Johnson",
-      "email": "bobjohnson@gmail.com",
-      "avatar": "https://i.pravatar.cc/100?img=3"
-    },
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
